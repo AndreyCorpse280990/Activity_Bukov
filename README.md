@@ -15,10 +15,10 @@
 ## Установка
 
 Скрины
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img.png](app/img.png)
+![img_1.png](app/img_1.png)
+![img_2.png](app/img_2.png)
+![img_3.png](app/img_3.png)
 
 1. Клонируйте репозиторий:
 ```bash

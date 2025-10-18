@@ -21,7 +21,6 @@
 ![img_3.png](img_3.png)
 
 1. Клонируйте репозиторий:
-
 ```bash
 git clone https://github.com/AndreyCorpse280990/Activity_Bukov.git
 

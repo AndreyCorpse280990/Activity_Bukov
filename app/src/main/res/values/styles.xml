@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ActivityBukov" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="android:windowBackground">@color/backgroundLight</item>
+    </style>
+</resources>

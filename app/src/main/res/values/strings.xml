@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Bukov</string>
+    <string name="open_two_activity">Открыть TwoActivity</string>
+    <string name="two_activity_text">Я запустился!</string>
+    <string name="open_browser">Открыть браузер</string>
+    <string name="go_back">Вернуться назад</string>
+</resources>
